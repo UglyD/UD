@@ -9,6 +9,6 @@
 	test 입니다.
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>하연이바보 </P>
 </body>
 </html>
